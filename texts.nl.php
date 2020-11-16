@@ -13,6 +13,7 @@ $contents["DOWNLOAD_APP_URL_SUFFIX"] = "&hl=nl";
 $contents["FAQ"] = "Veelgest. vragen";
 $contents["FAQ_PAGE_TITLE"] = "Veelgest. vragen - Oxygen Updater";
 $contents["PRIVACY_POLICY"] = "Privacybeleid";
+$contents["TEAM"] = "Our Team";
 
 // Top-left column (carousel)
 $contents["CAROUSEL_IMAGE_TYPE"] = "NL";

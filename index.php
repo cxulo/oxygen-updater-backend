@@ -110,6 +110,7 @@
         <!-- Expand navigation bar icon (≡) -->
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-navbar-collapse-1">
+
                 <span class="sr-only"><?php text("TOGGLE_NAVIGATION") ?></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
@@ -117,18 +118,18 @@
             </button>
 
             <!-- Logo -->
-            <img src="./img/app_icon_small-min.png" class="pull-left logo" alt="Logo">
+            <img src="/img/app_icon_small-min.png" class="pull-left logo" alt="Logo">
 
             <!-- App name -->
             <a class="font-white navbar-brand" href="/"><?php text("APP_NAME") ?></a>
         </div>
 
-        <!-- Navigation bar items (Download App and FAQ) -->
+        <!-- Navigation bar items (Download App, FAQ, Privacy Policy, Team) -->
         <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li>
                     <a class="font-white" href="https://play.google.com/store/apps/details?id=com.arjanvlek.oxygenupdater<?php text('DOWNLOAD_APP_URL_SUFFIX') ?>">
-                        <?php text("DOWNLOAD_APP")?>
+                        <?php text("DOWNLOAD_APP") ?>
                     </a>
                 </li>
                 <li>
@@ -136,6 +137,9 @@
                 </li>
                 <li>
                     <a class="font-white" href="/legal"><?php text("PRIVACY_POLICY") ?></a>
+                </li>
+                <li>
+                    <a class="font-white" href="/team"><?php text("TEAM") ?></a>
                 </li>
             </ul>
         </div>

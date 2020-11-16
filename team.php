@@ -66,7 +66,7 @@
 </head>
 <body>
 <!-- Top navigation bar -->
-<nav>
+<nav id="nav">
     <div class="container-fluid text-center">
         <!-- Expand navigation bar icon (≡) -->
         <div class="navbar-header">
@@ -85,7 +85,7 @@
             <a class="font-white navbar-brand" href="/"><?php text("APP_NAME") ?></a>
         </div>
 
-        <!-- Navigation bar items (Download App and FAQ) -->
+        <!-- Navigation bar items (Download App, FAQ, Privacy Policy, Team) -->
         <div class="collapse navbar-collapse" id="bs-navbar-collapse-1">
             <ul class="nav navbar-nav">
                 <li>
@@ -98,6 +98,9 @@
                 </li>
                 <li>
                     <a class="font-white" href="/legal"><?php text("PRIVACY_POLICY") ?></a>
+                </li>
+                <li>
+                    <a class="font-white" href="/team"><?php text("TEAM") ?></a>
                 </li>
             </ul>
         </div>

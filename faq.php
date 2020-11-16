@@ -87,7 +87,7 @@
 </head>
 <body>
 <!-- Top navigation bar -->
-<nav>
+<nav id="nav">
     <div class="container-fluid text-center">
         <!-- Expand navigation bar icon (≡) -->
         <div class="navbar-header">
@@ -119,6 +119,9 @@
                 </li>
 				<li>
                     <a class="font-white" href="/legal"><?php text("PRIVACY_POLICY") ?></a>
+                </li>
+                <li>
+                    <a class="font-white" href="/team"><?php text("TEAM") ?></a>
                 </li>
             </ul>
         </div>

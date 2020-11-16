@@ -13,6 +13,7 @@ $contents["DOWNLOAD_APP_URL_SUFFIX"] = "";
 $contents["FAQ"] = "FAQ";
 $contents["FAQ_PAGE_TITLE"] = "FAQ - Oxygen Updater";
 $contents["PRIVACY_POLICY"] = "Privacy Policy";
+$contents["TEAM"] = "Our Team";
 
 // Feature text next to (or above on mobile) the screenshots
 $contents["FEATURE_TITLE"] = "Be the first to update";
