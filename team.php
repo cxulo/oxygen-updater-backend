@@ -111,12 +111,19 @@
     <h2 class="text-center"><?php text('TEAM_PAGE_SUBTITLE')?></h2>
 </div>
 
-<!-- "Coming soon" banner -->
+<!-- Team text -->
 <div class="container" style="margin-top: -30px !important">
     <div class="row">
         <div class="col-xs-12 col-sm-12 col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2" style="text-align: center;">
-            <!-- https://pixabay.com/vectors/coming-soon-sign-board-3008776/ -->
-            <img src="/img/coming_soon.png" style="width: 80%; max-height: 500px;"/>
+        <p>In addition to Adhiraj, which took the lead of the project in <a href="https://oxygenupdater.com/api/v2.5/news-content/81/EN">August 2019</a> after Arjan Vlek decided to <a href="https://oxygenupdater.com/api/v2.5/news-content/78/EN">step down</a>, there are two other core team members.</p>
+        <p>Those are OneNormalUsername and AnonymousWP.</p>
+        <hr />
+        <p>OneNormalUsername joined the project as a contributor in <a href="https://oxygenupdater.com/api/v2.5/news-content/55/EN">November 2018</a> after OnePlus' backend changes disallowed the app to import updates automatically <a href="https://oxygenupdater.com/api/v2.5/news-content/54/EN">earlier in October</a> and then became administrator in May 2019.</p>
+        <p>He's French, studies cybersecurity at university level and likes digging in OxygenOS zips to find traces of unreleased features.</p>
+        <p>You can reach out to him by <a href="mailto:onenormalusername@oxygenupdater.com">email</a>, <a href="https://t.me/onenormalusername">Telegram</a>, <a href="https://twitter.com/1NormalUsername">Twitter</a>, <a href="https://forum.xda-developers.com/member.php?u=8234677">XDA forums</a> or <a href="https://discord.gg/oneplus">Discord</a> (OneNormalUsername#1462).&nbsp;</p>
+        <hr />
+        <p>AnonymousWP is Dutch.</p>
+        <p>You can reach out to him by <a href="mailto:anonymouswp@oxygenupdater.com">email</a>, <a href="https://tweakers.net/gallery/590416/">Tweakers.net forums</a> or <a href="https://discord.gg/oneplus">Discord</a> (AnonymousWP#0598).</p>
         </div>
     </div>
 </div>
