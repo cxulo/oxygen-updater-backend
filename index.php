@@ -35,19 +35,19 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Oxygen Updater is a free Android app to receive OxygenOS Over The Air (OTA) updates faster. Easy, safe and supports all OnePlus devices!">
+    <meta name="description" content="Oxygen Updater is a free Android app to receive OxygenOS Over The Air (OTA) updates faster. Easy, safe and supports most OnePlus devices!">
     <meta name="keywords" content="Oxygen,OnePlus,OxygenOS,OS,Android,AndroidOS,System,Update,Systemupdate,OTA,Flash,Download,Faster,App">
     <meta name="author" content="Adhiraj Singh Chauhan">
 
     <!-- Facebook tags -->
     <meta property="og:title" content="Oxygen Updater - Receive OxygenOS system updates faster!">
     <meta property="og:image" content="https://oxygenupdater.com/img/app_icon-min.png">
-    <meta property="og:description" content="Oxygen Updater is a free Android app to receive OxygenOS Over The Air (OTA) updates faster. Easy, safe and supports all OnePlus devices!">
+    <meta property="og:description" content="Oxygen Updater is a free Android app to receive OxygenOS Over The Air (OTA) updates faster. Easy, safe and supports most OnePlus devices!">
 
     <!-- Twitter tags -->
     <meta name="twitter:card" content="app">
     <meta name="twitter:site" content="@IAmAscii">
-    <meta name="twitter:description" content="Oxygen Updater is a free Android app to receive OxygenOS Over The Air (OTA) updates faster. Easy, safe and supports all OnePlus devices!">
+    <meta name="twitter:description" content="Oxygen Updater is a free Android app to receive OxygenOS Over The Air (OTA) updates faster. Easy, safe and supports most OnePlus devices!">
     <meta name="twitter:app:name:googleplay" content="Oxygen Updater">
     <meta name="twitter:app:id:googleplay" content="com.arjanvlek.oxygenupdater">
     <meta name="twitter:app:url:googleplay" content="https://play.google.com/store/apps/details?id=com.arjanvlek.oxygenupdater">
