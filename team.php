@@ -119,15 +119,15 @@
     <div class="row">
         <div class="col-xs-12 col-sm-12 col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2" style="text-align: center;">
         <p>In addition to Adhiraj, which took the lead of the project in <a href="https://oxygenupdater.com/api/v2.5/news-content/81/EN">August 2019</a> after Arjan Vlek decided to <a href="https://oxygenupdater.com/api/v2.5/news-content/78/EN">step down</a>, there are two other core team members.</p>
-        <p>Those are OneNormalUsername and AnonymousWP.<br />Not only they add update data into the admin portal so that latest updates get available into app, but they also answer support queries received by <a href="mailto:support@oxygenupdater.com">email</a> or on <a href="https://discord.gg/5TXdhKJ">our Discord server</a>, write news items which sometimes make their way to major publications such as Android Police or XDA-Developers and also answer to Google Play Store reviews</p>
+        <p>Those are AnonymousWP and OneNormalUsername.<br />Not only they add update-data into the admin portal so that latest updates become available into the app, but they also answer support queries received by <a href="mailto:support@oxygenupdater.com">email</a> or on <a href="https://discord.gg/5TXdhKJ">our Discord server</a>, and write news items - which sometimes make their way to major publications, such as Android Police or XDA Developers. They also answer to Google Play Store reviews.</p>
+        <hr />
+        <p>AnonymousWP joined the project as administrator on the 22nd of July 2018. AnonymousWP is Dutch, studies Cybersecurity &amp; Cloud at a university, and likes reading about all kind of tech-related news, from IT-pro related subjects to hardware.</p>
+        <p>You can reach out to him by <a href="mailto:anonymouswp@oxygenupdater.com">email</a>, <a href="https://tweakers.net/gallery/590416/">Tweakers.net forums</a> or <a href="https://discord.gg/oneplus">Discord</a> (AnonymousWP#0598).</p>
+        <p>&nbsp;</p>
         <hr />
         <p>OneNormalUsername joined the project as a contributor in <a href="https://oxygenupdater.com/api/v2.5/news-content/55/EN">November 2018</a> after OnePlus' backend changes disallowed the app to import updates automatically <a href="https://oxygenupdater.com/api/v2.5/news-content/54/EN">earlier in October</a> and then became administrator in May 2019.</p>
         <p>He's French, studies cybersecurity at university level and likes digging in OxygenOS zips to find traces of unreleased features.</p>
         <p>You can reach out to him by <a href="mailto:onenormalusername@oxygenupdater.com">email</a>, <a href="https://t.me/onenormalusername">Telegram</a>, <a href="https://twitter.com/1NormalUsername">Twitter</a>, <a href="https://forum.xda-developers.com/member.php?u=8234677">XDA forums</a> or <a href="https://discord.gg/oneplus">Discord</a> (OneNormalUsername#1462).&nbsp;</p>
-        <hr />
-        <p>AnonymousWP is Dutch.</p>
-        <p>You can reach out to him by <a href="mailto:anonymouswp@oxygenupdater.com">email</a>, <a href="https://tweakers.net/gallery/590416/">Tweakers.net forums</a> or <a href="https://discord.gg/oneplus">Discord</a> (AnonymousWP#0598).</p>
-        <p>&nbsp;</p>
         <hr />
         <p>If you want to join the team, please email us at&nbsp;<a href="mailto:work@oxygenupdater.com">work@oxygenupdater.com</a>.</p>
         </div>
